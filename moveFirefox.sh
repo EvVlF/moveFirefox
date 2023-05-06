@@ -3,7 +3,7 @@ set -Eeuox pipefail
 
 firefox_class_name="firefox"
 IDE_class_name="jetbrains"
-sleep_time=1
+sleep_time=60
 
 declare primary_monitor_xsize_px
 
